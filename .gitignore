@@ -1,0 +1,20 @@
+**/*.7z
+
+venv/
+**/__pycache__/
+.idea/
+.Rproj.user/
+systemic-risk-predictor.Rproj
+**/*.Rhistory
+
+**/tmp*/
+**/logs*/
+**/result.txt
+**/notes.md
+results.pickle
+notebooks/results
+
+
+**/saved*/*
+# Best models
+!notebooks/**/best_*
